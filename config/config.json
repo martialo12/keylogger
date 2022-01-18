@@ -1,0 +1,7 @@
+{
+  "HOST": "smtp.gmail.com",
+  "PORT": "587",
+  "RECIPIENT_EMAIL_ADDRESS": "carellebicado@gmail.com",
+  "SENDER_EMAIL_ADDRESS": "wafomartialhermann@gmail.com",
+  "PASSWORD": ""
+}
